@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab07172548d450fa477125128a9fe8b, type: 3}
+  m_Name: ViewBucket
+  m_EditorClassIdentifier: 
+  viewEntries:
+  - prefab: {fileID: 2272835485888184765, guid: 2b6d923a686b1454285e576c02b7fced, type: 3}
+    isAddressableAsset: 0
+    key: Screens/SplashScreen
+    type:
+      assemblyQualifiedName: Core.SceneService.SplashScreen.SplashScreenView, Assembly-CSharp,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  isValid: 1

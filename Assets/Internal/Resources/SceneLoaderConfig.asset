@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb3ded2d50e4661830f8628c0f2fb1a, type: 3}
+  m_Name: SceneLoaderConfig
+  m_EditorClassIdentifier: 
+  <MainMenu>k__BackingField:
+    asset: {fileID: 102900000, guid: d4adb2d536d8b2b499d22fae6c53cbb0, type: 3}
+    guid: d4adb2d536d8b2b499d22fae6c53cbb0
+  <Gameplay>k__BackingField:
+    asset: {fileID: 0}
+    guid: 00000000000000000000000000000000
+  <FadeDuration>k__BackingField: 0.5
